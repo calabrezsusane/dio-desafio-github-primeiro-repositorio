@@ -1,0 +1,10 @@
+•Tipologia e Variáveis
+•Instruções Primitivas
+•Estruturas Condicionais e Operadores
+•Estruturas de Repetição
+•Vetores e Matrizes
+•O que são funções
+•Instruções de Entrada/Saída
+
+
+

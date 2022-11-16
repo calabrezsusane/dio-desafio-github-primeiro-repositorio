@@ -1,0 +1,17 @@
+Pensamento Computacional é o processo de pensamento envolvido na expressão de soluções em passos computacionais ou algoritmos que podem ser implementados no computador.
+
+
+Sistemático e eficiente - Formulação e resolução de problemas
+Sejam capazes de resolver - Humanos e máquinas
+
+Matemática - Leitura - Escrita
+
+Baseado em 4 pilares: 
+•Decomposição (Divide um problema complexo em subproblemas)
+•Reconhecimento de padrões (Identifica padrões ou tendências)
+•Abstração (Extrapola o conceito do problema para uma forma generalista)
+•Design de algoritmos
+
+
+
+
